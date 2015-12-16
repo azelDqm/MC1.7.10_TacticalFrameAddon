@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TacticalFramesAddonTypeC",
+  "name": "TacticalFramesAddonTypeC",
+  "description": "Addon for TacticalFrames.",
+  "version": "${version}",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Azel"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
